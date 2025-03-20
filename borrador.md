@@ -23,10 +23,11 @@ Un sistema inteligente completo incluye "sentidos" que le permiten recibir infor
 
 ### Aplicacion de la IA en el campo de la Salud
 
-- Prótesis
-- Cirugía robótica asistida por IA
-- Diagnósticos médicos
-- Rehabilitación y terapia física
+- SkinVision: ​SkinVision ha desarrollado una aplicación que utiliza machine learning para detectar lesiones cutáneas peligrosas. Inicialmente, empleaban un sistema basado en reglas que analizaba cada imagen en busca de características específicas para determinar el riesgo. Sin embargo, desde enero de 2018, han implementado un algoritmo de aprendizaje automático que ha mejorado significativamente la precisión en la detección.
+
+Este algoritmo se ha entrenado con una gran cantidad de imágenes previamente evaluadas por dermatólogos, permitiéndole aprender a distinguir entre lesiones peligrosas y no peligrosas. Además, todas las fotos enviadas a través de la aplicación son revisadas por dermatólogos internos y expertos en reconocimiento de imágenes para garantizar la precisión del algoritmo y asegurar que las indicaciones de riesgo sean correctas.
+
+El objetivo de SkinVision es que su algoritmo alcance un nivel de precisión comparable al de los mejores dermatólogos, mejorando continuamente con cada imagen analizada y contribuyendo a la detección temprana del cáncer de piel.
 
 ### Aplicacion de la IA en el campo de la Seguridad y vigilancia
 
