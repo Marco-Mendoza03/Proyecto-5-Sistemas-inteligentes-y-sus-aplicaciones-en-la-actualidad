@@ -12,6 +12,15 @@ Wikipedia: Un sistema inteligente es un programa de computación que reúne cara
 
 Un sistema inteligente completo incluye "sentidos" que le permiten recibir información de su entorno. Puede actuar, y tiene una memoria para archivar el resultado de sus acciones. Tiene un objetivo e, inspeccionando su memoria, puede aprender de su experiencia. Aprende cómo lograr mejorar su rendimiento y eficiencia.
 
+### Caracteristicas principales para considerar un sistema "inteligente"
+- Inteligencia: Hay muchas definiciones de "inteligencia". Para usos prácticos usamos esta: La inteligencia es el nivel del sistema en lograr sus objetivos de los sistemas inteligente.
+- Sistematización: Un sistema es parte del universo, con una extensión limitada en espacio y tiempo. Las partes del sistema tienen más, o más fuertes, correlaciones con otras partes del mismo sistema; que con partes fuera del sistema.
+- Objetivo: Un objetivo es una cierta situación que el sistema inteligente quiere lograr. Normalmente hay muchos niveles de objetivos, puede haber un objetivo principal y muchos subobjetivos.
+- Capacidad sensorial: Un sentido es la parte del sistema que puede recibir comunicaciones del entorno. Se necesitan los sentidos para que el sistema inteligente puede conocer su entorno y actuar interactivamente.
+- Conceptualización: Un concepto es el elemento básico del pensamiento. Es el almacenamiento físico, material de información (en neuronas o electrones). Todos los conceptos de la memoria están interrelacionados en red. La capacidad de conceptualizar implica el desarrollo de niveles de abstracción.
+- Reglas de actuación: Una regla de actuación es el resultado de una experiencia o el resultado de interpretar la propia memoria. Relaciona situación y consecuencias de la acción.
+- Memoria: La memoria es un almacenaje físico de conceptos y reglas de actuación. Esto incluye la experiencia del sistema.
+- Aprendizaje: El aprendizaje es probablemente la capacidad más importante de un sistema inteligente. El sistema aprende conceptos a partir de la información recibida de los sentidos. Aprende reglas de actuación a base de su experiencia. La actuación, a veces hecha al azar, se almacena con su valor. Una regla de actuación aumenta en valor si permitió el logro de un objetivo. El aprendizaje incluye la fijación de conceptos abstractos, a base de ejemplos concretos y la creación de conceptos compuestos que contienen los conceptos de partes de un objeto. El aprendizaje también es la capacidad de detectar relaciones (patrones) entre la parte "situación" y la parte "situación futura" de una regla de actuación.
 
 ### tres aplicaciones actuales de la ia de campos distintos. (marcados en negritas los que se van a usar)
 
