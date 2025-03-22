@@ -38,7 +38,7 @@ Este algoritmo se ha entrenado con una gran cantidad de imágenes previamente ev
 
 El objetivo de SkinVision es que su algoritmo alcance un nivel de precisión comparable al de los mejores dermatólogos, mejorando continuamente con cada imagen analizada y contribuyendo a la detección temprana del cáncer de piel.
 
-Pero es un Sistema inteligente? Realmente esto es algo controversial o que podría llegar a ser debatible:
+¿Pero es un Sistema inteligente? Realmente esto es algo controversial o que podría llegar a ser debatible:
 (Basándome en las descripciones de las características de un sistema inteligente de Wikipedia)
 - Inteligencia: ✅ Tiene un objetivo el cual se basa en la detección temprana del cáncer de piel, el cual logra con un algoritmo intentando que sea comparable a la precisión de los mejores dermatologos.
 - Sistematización: ✅ Es un sistema con función clara: analiza imágenes de la piel y proporciona un nivel de riesgo. Se basa en redes neuronales entrenadas con miles de imágenes dermatológicas.
