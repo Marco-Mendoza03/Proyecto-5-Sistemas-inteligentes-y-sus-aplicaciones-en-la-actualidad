@@ -37,7 +37,19 @@ Un sistema inteligente completo incluye "sentidos" que le permiten recibir infor
 Este algoritmo se ha entrenado con una gran cantidad de imágenes previamente evaluadas por dermatólogos, permitiéndole aprender a distinguir entre lesiones peligrosas y no peligrosas. Además, todas las fotos enviadas a través de la aplicación son revisadas por dermatólogos internos y expertos en reconocimiento de imágenes para garantizar la precisión del algoritmo y asegurar que las indicaciones de riesgo sean correctas.
 
 El objetivo de SkinVision es que su algoritmo alcance un nivel de precisión comparable al de los mejores dermatólogos, mejorando continuamente con cada imagen analizada y contribuyendo a la detección temprana del cáncer de piel.
-### Aplicacion de la IA en el campo de la Seguridad y vigilancia
+
+Pero es un Sistema inteligente? Realmente esto es algo controversial o que podría llegar a ser debatible:
+(Basándome en las descripciones de las características de un sistema inteligente de Wikipedia)
+- Inteligencia: ✅ Tiene un objetivo el cual se basa en la detección temprana del cáncer de piel, el cual logra con un algoritmo intentando que sea comparable a la precisión de los mejores dermatologos.
+- Sistematización: ✅ Es un sistema con función clara: analiza imágenes de la piel y proporciona un nivel de riesgo. Se basa en redes neuronales entrenadas con miles de imágenes dermatológicas.
+- Objetivo: ✅ Detectar signos de cáncer en la piel y evaluar el nivel de riesgo
+- Capacidad sensorial: ✅ Usa una cámara para "ver" identificar la piel y sus posibles problemas.
+- Conceptualización: ❓ "Conoce" conceptos sobre problemas de la piel, por ejemplo lunares benignos, lesiones sospechosas, niveles de riesgo (alto o bajo)
+- Reglas de actuación: ✅ Sigue unas reglas que vienen siendo: Riesgo bajo? -> Seguir monitoreando | Riesgo intermedio/alto? -> Consultar a un dermatólogo
+- Memoria: ✅ Almacena datos e imágenes, y con el tiempo va mejorando el modelo
+- Aprendizaje: ✅ Usa Machine Learning para mejorar cada vez más la precisión de detección de las anomalías.
+
+## Aplicacion de la IA en el campo de la Seguridad y vigilancia
 
 - Videovigilancia
 - Drones y Robots con Inteligencia Artificial para Patrullaje
