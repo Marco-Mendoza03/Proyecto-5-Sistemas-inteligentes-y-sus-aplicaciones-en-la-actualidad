@@ -58,26 +58,14 @@ AnyVision usa redes neuronales profundas para procesar imágenes y videos en tie
 ¿Es un sistema inteligente?
 - Inteligencia: ✅ AnyVision tiene un objetivo claro: reconocer personas y objetos en imágenes o videos con alta precisión. Su éxito se mide en la capacidad de lograr esta tarea en entornos reales y dinámicos.
 - Sistematización: ✅ AnyVision es un sistema cerrado y definido, compuesto por hardware (cámaras, servidores) y software (redes neuronales, bases de datos). Sus componentes están altamente correlacionados entre sí y funcionan como un sistema único.
-
-- Objetivo: ✅ Su objetivo principal es identificar personas y objetos en tiempo real, con subobjetivos como:
-Detectar rostros en condiciones difíciles (luces, ángulos, máscaras).
-Comparar rostros con bases de datos.
-Enviar alertas en caso de coincidencias.
+- Objetivo: ✅ Su objetivo principal es identificar personas y objetos en tiempo real, con subobjetivos como: Detectar rostros en condiciones difíciles (luces, ángulos, máscaras). Comparar rostros con bases de datos. Enviar alertas en caso de coincidencias.
 - Capacidad Sensorial: ✅ Usa cámaras y sensores para captar información visual y convertirla en datos para análisis.
-
-- Conceptualización: ✅ Puede reconocer patrones en rostros y objetos, pero su capacidad de conceptualizar es limitada.
-Almacena datos en representaciones matemáticas (vectores faciales), pero no abstrae conceptos como un humano.
-- Reglas de Actuación: ✅ Usa redes neuronales entrenadas para identificar rostros.
-Tiene reglas de decisión, por ejemplo:
-Si una cara coincide con la base de datos, genera una alerta.
-Si hay baja confianza en la detección, solicita más datos.
-- Memoria: ✅ Guarda información de rostros previamente analizados.
-Almacena eventos pasados (por ejemplo, intentos de acceso no autorizados).
+- Conceptualización: ✅ Puede reconocer patrones en rostros y objetos, pero su capacidad de conceptualizar es limitada. Almacena datos en representaciones matemáticas (vectores faciales), pero no abstrae conceptos como un humano.
+- Reglas de Actuación: ✅ Usa redes neuronales entrenadas para identificar rostros. Tiene reglas de decisión, por ejemplo: Si una cara coincide con la base de datos, genera una alerta. Si hay baja confianza en la detección, solicita más datos.
+- Memoria: ✅ Guarda información de rostros previamente analizados. Almacena eventos pasados (por ejemplo, intentos de acceso no autorizados).
 Puede mejorar su rendimiento con más datos.
-- Aprendizaje: ❌ No cumple completamente.
-No aprende en tiempo real ni ajusta sus decisiones dinámicamente.
-Su aprendizaje se da en la fase de entrenamiento, pero en producción su modelo es fijo.
-No ajusta reglas de actuación basadas en su propia experiencia, como lo haría un sistema autónomo más avanzado.
+- Aprendizaje: ❌ No cumple completamente. No aprende en tiempo real ni ajusta sus decisiones dinámicamente. Su aprendizaje se da en la fase de entrenamiento, pero en producción su modelo es fijo. No ajusta reglas de actuación basadas en su propia experiencia, como lo haría un sistema autónomo más avanzado.
+
 ### Aplicacion de la IA en sector Industrial y energia
 
 - Optimización del consumo energético
