@@ -98,6 +98,16 @@ AIVA permite descargar las partituras en formato MIDI, lo que permite a músicos
 
 También genera audio realista con instrumentos virtuales, lo que permite usar sus creaciones en películas, videojuegos y comerciales.
 
+¿Es un sistema inteligente?
+- Inteligencia: ✅ Sí, porque logra su objetivo principal: componer música de manera autónoma y en distintos estilos. Puede adaptar sus composiciones según parámetros definidos, optimizando la calidad del resultado.
+- Sistematización: ✅ Es un sistema cerrado, que opera en un ambiente específico (composición musical). Usa bases de datos de partituras y redes neuronales que trabajan en conjunto.
+- Objetivo: ✅ Su objetivo principal es crear música original con base en estructuras aprendidas. Puede generar subobjetivos, como adaptar un estilo, cambiar la tonalidad o mejorar una melodía.
+- Conceptualización: ✅ Usa representación matemática de la música y relaciones entre notas, acordes y patrones. Puede combinar conceptos musicales y generar nuevas ideas basadas en estilos preexistentes.
+- Reglas de actuación: ✅ AIVA sigue reglas musicales aprendidas de su entrenamiento con partituras de grandes compositores. Relaciona patrones musicales con estructuras armónicas y predice combinaciones que suenan bien.
+- Memoria: ✅ Almacena conocimiento de música en redes neuronales, permitiéndole mejorar sus composiciones. Su "memoria" está basada en ejemplos de partituras previas y ajustes que hace en sus creaciones.
+- Aprendizaje: ✅ Aprende patrones musicales a partir de grandes bases de datos de música clásica y moderna.
+
+
 ### Webgrafía
 
 - https://www.apd.es/aplicaciones-inteligencia-artificial-en-medicina/
