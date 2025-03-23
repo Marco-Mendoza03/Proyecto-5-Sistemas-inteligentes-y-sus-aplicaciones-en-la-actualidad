@@ -42,20 +42,42 @@ El objetivo de SkinVision es que su algoritmo alcance un nivel de precisión com
 (Basándome en las descripciones de las características de un sistema inteligente de Wikipedia)
 - Inteligencia: ✅ Tiene un objetivo el cual se basa en la detección temprana del cáncer de piel, el cual logra con un algoritmo intentando que sea comparable a la precisión de los mejores dermatologos.
 - Sistematización: ✅ Es un sistema con función clara: analiza imágenes de la piel y proporciona un nivel de riesgo. Se basa en redes neuronales entrenadas con miles de imágenes dermatológicas.
-- Objetivo: ✅ Detectar signos de cáncer en la piel y evaluar el nivel de riesgo
+- Objetivo: ✅ Detectar signos de cáncer en la piel y evaluar el nivel de riesgo.
 - Capacidad sensorial: ✅ Usa una cámara para "ver" identificar la piel y sus posibles problemas.
-- Conceptualización: ❓ "Conoce" conceptos sobre problemas de la piel, por ejemplo lunares benignos, lesiones sospechosas, niveles de riesgo (alto o bajo)
-- Reglas de actuación: ✅ Sigue unas reglas que vienen siendo: Riesgo bajo? -> Seguir monitoreando | Riesgo intermedio/alto? -> Consultar a un dermatólogo
-- Memoria: ✅ Almacena datos e imágenes, y con el tiempo va mejorando el modelo
+- Conceptualización: ✅ "Conoce" conceptos sobre problemas de la piel, por ejemplo lunares benignos, lesiones sospechosas, niveles de riesgo (alto o bajo).
+- Reglas de actuación: ✅ Sigue unas reglas que vienen siendo: Riesgo bajo? -> Seguir monitoreando | Riesgo intermedio/alto? -> Consultar a un dermatólogo.
+- Memoria: ✅ Almacena datos e imágenes, y con el tiempo va mejorando el modelo.
 - Aprendizaje: ✅ Usa Machine Learning para mejorar cada vez más la precisión de detección de las anomalías.
 
 ## Aplicacion de la IA en el campo de la Seguridad y vigilancia
 
-- Videovigilancia
-- Drones y Robots con Inteligencia Artificial para Patrullaje
-- Reconocimiento Facial y Autenticación Biométrica
-- Automatización y Optimización de la Vigilancia
+Anyvision: AnyVision es una empresa de reconocimiento facial y visión por computadora que desarrolla tecnología para identificar personas y objetos en tiempo real. Se usa en aeropuertos, estadios, bancos y sistemas de seguridad pública para detectar sospechosos, controlar accesos o mejorar la seguridad.
 
+AnyVision usa redes neuronales profundas para procesar imágenes y videos en tiempo real. Su sistema sigue estos pasos: Captura de imagenes, preprocesamiento de imagenes, deteccion y reconocimiento facial, comparacion con bases de datos, analisis de comportamiento, generacion de alertas
+
+¿Es un sistema inteligente?
+- Inteligencia: ✅ AnyVision tiene un objetivo claro: reconocer personas y objetos en imágenes o videos con alta precisión. Su éxito se mide en la capacidad de lograr esta tarea en entornos reales y dinámicos.
+- Sistematización: ✅ AnyVision es un sistema cerrado y definido, compuesto por hardware (cámaras, servidores) y software (redes neuronales, bases de datos). Sus componentes están altamente correlacionados entre sí y funcionan como un sistema único.
+
+- Objetivo: ✅ Su objetivo principal es identificar personas y objetos en tiempo real, con subobjetivos como:
+Detectar rostros en condiciones difíciles (luces, ángulos, máscaras).
+Comparar rostros con bases de datos.
+Enviar alertas en caso de coincidencias.
+- Capacidad Sensorial: ✅ Usa cámaras y sensores para captar información visual y convertirla en datos para análisis.
+
+- Conceptualización: ✅ Puede reconocer patrones en rostros y objetos, pero su capacidad de conceptualizar es limitada.
+Almacena datos en representaciones matemáticas (vectores faciales), pero no abstrae conceptos como un humano.
+- Reglas de Actuación: ✅ Usa redes neuronales entrenadas para identificar rostros.
+Tiene reglas de decisión, por ejemplo:
+Si una cara coincide con la base de datos, genera una alerta.
+Si hay baja confianza en la detección, solicita más datos.
+- Memoria: ✅ Guarda información de rostros previamente analizados.
+Almacena eventos pasados (por ejemplo, intentos de acceso no autorizados).
+Puede mejorar su rendimiento con más datos.
+- Aprendizaje: ❌ No cumple completamente.
+No aprende en tiempo real ni ajusta sus decisiones dinámicamente.
+Su aprendizaje se da en la fase de entrenamiento, pero en producción su modelo es fijo.
+No ajusta reglas de actuación basadas en su propia experiencia, como lo haría un sistema autónomo más avanzado.
 ### Aplicacion de la IA en sector Industrial y energia
 
 - Optimización del consumo energético
@@ -67,3 +89,4 @@ El objetivo de SkinVision es que su algoritmo alcance un nivel de precisión com
 
 - https://www.apd.es/aplicaciones-inteligencia-artificial-en-medicina/
 - https://www.scati.com/inteligencia-artificial-videovigilancia/
+- https://www.rocheplus.es/innovacion/inteligencia-artificial/melanoma.html
