@@ -1,4 +1,4 @@
-### principios basicos para que los sistemas se consideren inteligentes
+### Principios basicos para que un sistema se pueda considerar inteligente:
 
 Prueba de turing: Si el humano no logra discernir cuándo su interlocutor es una máquina (A en la figura), y cuándo otra persona (B en la figura), entonces el sistema supera la prueba de Turing: es inteligente.
 
@@ -9,6 +9,8 @@ McCarthy sobre la ia: la disciplina dentro de la Informática o la Ingeniería q
 Probablemente una máquina verdaderamente inteligente llevará a cabo tareas que pueden ser descritas como de superación personal
 
 Wikipedia: Un sistema inteligente es un programa de computación que reúne características y comportamientos asimilables al de la inteligencia humana o animal. La expresión "sistema inteligente" se usa a veces para sistemas inteligentes incompletos, por ejemplo para una casa inteligente o un sistema experto.
+
+Características principales según wikipedia de un sistema inteligente: 
 
 Un sistema inteligente completo incluye "sentidos" que le permiten recibir información de su entorno. Puede actuar, y tiene una memoria para archivar el resultado de sus acciones. Tiene un objetivo e, inspeccionando su memoria, puede aprender de su experiencia. Aprende cómo lograr mejorar su rendimiento y eficiencia.
 
@@ -74,32 +76,32 @@ Lanzada en 2016, AIVA ha sido reconocida como compositora oficial en la Sociedad
 
 AIVA usa redes neuronales y deep learning para analizar miles de partituras musicales y generar nuevas composiciones. Su proceso es más o menos así:
 
-1️⃣ Análisis de Música 🎼
+#### Análisis de Música 🎼
 
 AIVA estudia miles de partituras de grandes compositores (Bach, Mozart, Beethoven, etc.) para entender patrones musicales, armonía y estructura.
 
 Usa procesamiento de lenguaje natural (PLN), pero aplicado a música en lugar de texto.
 
-2️⃣ Generación de Nuevas Composiciones 🎶
+#### Generación de Nuevas Composiciones 🎶
 
 Basándose en lo aprendido, AIVA genera nuevas piezas musicales desde cero o modifica melodías existentes.
 
 Puede seguir reglas específicas de composición (por ejemplo, generar una sonata o una banda sonora de acción).
 
-3️⃣ Mejora y Refinamiento 🎻
+#### Mejora y Refinamiento 🎻
 
 Una vez creada la pieza, AIVA la ajusta y optimiza usando evaluación automática y retroalimentación.
 
 Puede sugerir arreglos, cambiar instrumentos o ajustar la tonalidad según las preferencias del usuario.
 
-4️⃣ Exportación y Producción 🎧
+#### Exportación y Producción 🎧
 
 AIVA permite descargar las partituras en formato MIDI, lo que permite a músicos humanos editarla y mejorarla.
 
 También genera audio realista con instrumentos virtuales, lo que permite usar sus creaciones en películas, videojuegos y comerciales.
 
 ¿Es un sistema inteligente?
-- Inteligencia: ✅ Sí, porque logra su objetivo principal: componer música de manera autónoma y en distintos estilos. Puede adaptar sus composiciones según parámetros definidos, optimizando la calidad del resultado.
+- Inteligencia: ✅ Sí, porque logra su objetivo principal, el cual es componer música de manera autónoma y en distintos estilos. Puede adaptar sus composiciones según parámetros definidos, optimizando la calidad del resultado.
 - Sistematización: ✅ Es un sistema cerrado, que opera en un ambiente específico (composición musical). Usa bases de datos de partituras y redes neuronales que trabajan en conjunto.
 - Objetivo: ✅ Su objetivo principal es crear música original con base en estructuras aprendidas. Puede generar subobjetivos, como adaptar un estilo, cambiar la tonalidad o mejorar una melodía.
 - Conceptualización: ✅ Usa representación matemática de la música y relaciones entre notas, acordes y patrones. Puede combinar conceptos musicales y generar nuevas ideas basadas en estilos preexistentes.
