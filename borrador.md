@@ -68,10 +68,35 @@ Puede mejorar su rendimiento con más datos.
 
 ### Aplicacion de la IA en sector Industrial y energia
 
-- Optimización del consumo energético
-- Sostenibilidad y energías renovables
-- Gestión de redes inteligentes
-- Comercio de energía
+AIVA (Artificial Intelligence Virtual Artist) es una inteligencia artificial que compone música original en distintos estilos, como música clásica, jazz, electrónica o bandas sonoras para películas y videojuegos.
+
+Lanzada en 2016, AIVA ha sido reconocida como compositora oficial en la Sociedad de Autores de Luxemburgo, lo que significa que sus creaciones pueden tener derechos de autor, algo raro para una IA.
+
+AIVA usa redes neuronales y deep learning para analizar miles de partituras musicales y generar nuevas composiciones. Su proceso es más o menos así:
+
+1️⃣ Análisis de Música 🎼
+
+AIVA estudia miles de partituras de grandes compositores (Bach, Mozart, Beethoven, etc.) para entender patrones musicales, armonía y estructura.
+
+Usa procesamiento de lenguaje natural (PLN), pero aplicado a música en lugar de texto.
+
+2️⃣ Generación de Nuevas Composiciones 🎶
+
+Basándose en lo aprendido, AIVA genera nuevas piezas musicales desde cero o modifica melodías existentes.
+
+Puede seguir reglas específicas de composición (por ejemplo, generar una sonata o una banda sonora de acción).
+
+3️⃣ Mejora y Refinamiento 🎻
+
+Una vez creada la pieza, AIVA la ajusta y optimiza usando evaluación automática y retroalimentación.
+
+Puede sugerir arreglos, cambiar instrumentos o ajustar la tonalidad según las preferencias del usuario.
+
+4️⃣ Exportación y Producción 🎧
+
+AIVA permite descargar las partituras en formato MIDI, lo que permite a músicos humanos editarla y mejorarla.
+
+También genera audio realista con instrumentos virtuales, lo que permite usar sus creaciones en películas, videojuegos y comerciales.
 
 ### Webgrafía
 
