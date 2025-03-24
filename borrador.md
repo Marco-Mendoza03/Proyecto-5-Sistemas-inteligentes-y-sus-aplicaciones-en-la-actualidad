@@ -84,7 +84,6 @@ AIVA permite descargar las partituras en formato MIDI, lo que permite a músicos
 - Memoria: ✅ Almacena conocimiento de música en redes neuronales, permitiéndole mejorar sus composiciones. Su "memoria" está basada en ejemplos de partituras previas y ajustes que hace en sus creaciones.
 - Aprendizaje: ✅ Aprende patrones musicales a partir de grandes bases de datos de música clásica y moderna.
 
-
 ### Webgrafía
 
 - https://www.apd.es/aplicaciones-inteligencia-artificial-en-medicina/
