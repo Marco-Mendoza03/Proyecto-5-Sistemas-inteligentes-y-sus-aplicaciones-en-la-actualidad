@@ -118,3 +118,9 @@ También genera audio realista con instrumentos virtuales, lo que permite usar s
 - https://www.apd.es/aplicaciones-inteligencia-artificial-en-medicina/
 - https://www.scati.com/inteligencia-artificial-videovigilancia/
 - https://www.rocheplus.es/innovacion/inteligencia-artificial/melanoma.html
+- https://www.skinvision.com
+- https://oosto.com
+- https://oosto.com/technology/?utm_source=chatgpt.com
+- https://www.aiva.ai
+- https://en.wikipedia.org/wiki/AIVA
+- https://www.toolify.ai/es/ai-news-es/crea-msica-original-e-innovadora-con-aiva-la-herramienta-de-inteligencia-artificial-2529368
