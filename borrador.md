@@ -29,7 +29,7 @@ Un sistema inteligente completo incluye "sentidos" que le permiten recibir infor
 - ***seguridad y vigilancia***
 - ***industrial y energia***
 
-### Aplicacion de la IA en el campo de la Salud
+### Aplicacion con IA en el campo de la Salud
 
 **SkinVision**: ​SkinVision ha desarrollado una aplicación que utiliza machine learning para detectar lesiones cutáneas peligrosas. Inicialmente, empleaban un sistema basado en reglas que analizaba cada imagen en busca de características específicas para determinar el riesgo. Sin embargo, desde enero de 2018, han implementado un algoritmo de aprendizaje automático que ha mejorado significativamente la precisión en la detección.
 
@@ -48,7 +48,7 @@ El objetivo de SkinVision es que su algoritmo alcance un nivel de precisión com
 - Memoria: ✅ Almacena datos e imágenes, y con el tiempo va mejorando el modelo.
 - Aprendizaje: ✅ Usa Machine Learning para mejorar cada vez más la precisión de detección de las anomalías.
 
-## Aplicacion de la IA en el campo de la Seguridad y vigilancia
+## Aplicacion con IA en el campo de la Seguridad y vigilancia
 
 Anyvision: AnyVision es una empresa de reconocimiento facial y visión por computadora que desarrolla tecnología para identificar personas y objetos en tiempo real. Se usa en aeropuertos, estadios, bancos y sistemas de seguridad pública para detectar sospechosos, controlar accesos o mejorar la seguridad.
 
@@ -69,7 +69,7 @@ El algoritmo de AnyVision ha sido entrenado con grandes volúmenes de imágenes 
 Puede mejorar su rendimiento con más datos.
 - Aprendizaje: ❌ No cumple completamente. No aprende en tiempo real ni ajusta sus decisiones dinámicamente. Su aprendizaje se da en la fase de entrenamiento, pero en producción su modelo es fijo. No ajusta reglas de actuación basadas en su propia experiencia, como lo haría un sistema autónomo más avanzado.
 
-### Aplicacion de la IA en Musical
+### Aplicacion con IA en Musical
 
 AIVA (Artificial Intelligence Virtual Artist) es una inteligencia artificial que compone música original en distintos estilos, como música clásica, jazz, electrónica o bandas sonoras para películas y videojuegos. Lanzada en 2016, AIVA ha sido reconocida como compositora oficial en la Sociedad de Autores de Luxemburgo, lo que significa que sus creaciones pueden tener derechos de autor, algo raro para una IA.
 
