@@ -24,8 +24,7 @@ Un sistema inteligente completo incluye "sentidos" que le permiten recibir infor
 - Memoria: La memoria es un almacenaje físico de conceptos y reglas de actuación. Esto incluye la experiencia del sistema.
 - Aprendizaje: El aprendizaje es probablemente la capacidad más importante de un sistema inteligente. El sistema aprende conceptos a partir de la información recibida de los sentidos. Aprende reglas de actuación a base de su experiencia. La actuación, a veces hecha al azar, se almacena con su valor. Una regla de actuación aumenta en valor si permitió el logro de un objetivo. El aprendizaje incluye la fijación de conceptos abstractos, a base de ejemplos concretos y la creación de conceptos compuestos que contienen los conceptos de partes de un objeto. El aprendizaje también es la capacidad de detectar relaciones (patrones) entre la parte "situación" y la parte "situación futura" de una regla de actuación.
 
-### tres aplicaciones actuales de la ia de campos distintos. (marcados en negritas los que se van a usar)
-
+### Tres aplicaciones actuales de la ia de campos distintos.
 - ***salud***
 - ***seguridad y vigilancia***
 - ***industrial y energia***
