@@ -1,19 +1,3 @@
-### Principios basicos para que un sistema se pueda considerar inteligente:
-
-Prueba de turing: Si el humano no logra discernir cuándo su interlocutor es una máquina (A en la figura), y cuándo otra persona (B en la figura), entonces el sistema supera la prueba de Turing: es inteligente.
-
-capacidad de aprender
-
-McCarthy sobre la ia: la disciplina dentro de la Informática o la Ingeniería que se ocupa del diseño de sistemas inteligentes
-
-Probablemente una máquina verdaderamente inteligente llevará a cabo tareas que pueden ser descritas como de superación personal
-
-Wikipedia: Un sistema inteligente es un programa de computación que reúne características y comportamientos asimilables al de la inteligencia humana o animal. La expresión "sistema inteligente" se usa a veces para sistemas inteligentes incompletos, por ejemplo para una casa inteligente o un sistema experto.
-
-Características principales según wikipedia de un sistema inteligente: 
-
-Un sistema inteligente completo incluye "sentidos" que le permiten recibir información de su entorno. Puede actuar, y tiene una memoria para archivar el resultado de sus acciones. Tiene un objetivo e, inspeccionando su memoria, puede aprender de su experiencia. Aprende cómo lograr mejorar su rendimiento y eficiencia.
-
 ### Caracteristicas principales para considerar un sistema "inteligente"
 - Inteligencia: Hay muchas definiciones de "inteligencia". Para usos prácticos usamos esta: La inteligencia es el nivel del sistema en lograr sus objetivos de los sistemas inteligente.
 - Sistematización: Un sistema es parte del universo, con una extensión limitada en espacio y tiempo. Las partes del sistema tienen más, o más fuertes, correlaciones con otras partes del mismo sistema; que con partes fuera del sistema.
@@ -31,9 +15,9 @@ Un sistema inteligente completo incluye "sentidos" que le permiten recibir infor
 
 ### Aplicacion con IA en el campo de la Salud
 
-**SkinVision**: ​SkinVision ha desarrollado una aplicación que utiliza machine learning para detectar lesiones cutáneas peligrosas. Inicialmente, empleaban un sistema basado en reglas que analizaba cada imagen en busca de características específicas para determinar el riesgo. Sin embargo, desde enero de 2018, han implementado un algoritmo de aprendizaje automático que ha mejorado significativamente la precisión en la detección.
+**SkinVision**: ​SkinVision ha desarrollado una aplicación que utiliza machine learning para detectar lesiones cutáneas peligrosas. Inicialmente, empleaban un sistema basado en reglas que analizaba cada imagen en busca de características específicas para determinar el riesgo. Desde enero de 2018, han implementado un algoritmo de aprendizaje automático que ha mejorado la precisión en la detección.
 
-Este algoritmo se ha entrenado con una gran cantidad de imágenes previamente evaluadas por dermatólogos, permitiéndole aprender a distinguir entre lesiones peligrosas y no peligrosas. Además, todas las fotos enviadas a través de la aplicación son revisadas por dermatólogos internos y expertos en reconocimiento de imágenes para garantizar la precisión del algoritmo y asegurar que las indicaciones de riesgo sean correctas.
+Este algoritmo se ha entrenado con una gran cantidad de imágenes evaluadas por dermatólogos, permitiéndole aprender a distinguir entre lesiones peligrosas y no peligrosas. Además todas las fotos enviadas a través de la aplicación son revisadas por dermatólogos internos y expertos en reconocimiento de imágenes para garantizar la precisión del algoritmo y asegurar que las indicaciones de riesgo sean correctas.
 
 El objetivo de SkinVision es que su algoritmo alcance un nivel de precisión comparable al de los mejores dermatólogos, mejorando continuamente con cada imagen analizada y contribuyendo a la detección temprana del cáncer de piel.
 
@@ -48,15 +32,13 @@ El objetivo de SkinVision es que su algoritmo alcance un nivel de precisión com
 - Memoria: ✅ Almacena datos e imágenes, y con el tiempo va mejorando el modelo.
 - Aprendizaje: ✅ Usa Machine Learning para mejorar cada vez más la precisión de detección de las anomalías.
 
-## Aplicacion con IA en el campo de la Seguridad y vigilancia
+### Aplicacion con IA en el campo de la Seguridad y vigilancia
 
-Anyvision: AnyVision es una empresa de reconocimiento facial y visión por computadora que desarrolla tecnología para identificar personas y objetos en tiempo real. Se usa en aeropuertos, estadios, bancos y sistemas de seguridad pública para detectar sospechosos, controlar accesos o mejorar la seguridad.
+**Anyvision**: AnyVision es una empresa de reconocimiento facial y visión por computadora que desarrolla tecnología para identificar personas y objetos en tiempo real. Se usa en aeropuertos, estadios, bancos y sistemas de seguridad pública para detectar sospechosos, controlar accesos o mejorar la seguridad.
 
-AnyVision usa redes neuronales profundas para procesar imágenes y videos en tiempo real. Su sistema sigue estos pasos: Captura de imagenes, preprocesamiento de imagenes, deteccion y reconocimiento facial, comparacion con bases de datos, analisis de comportamiento, generacion de alertas
+El sistema empleaba algoritmos tradicionales de visión por computadora para detectar y comparar rostros en imágenes y videos. Sin embargo, con la evolución del deep learning, han implementado redes neuronales avanzadas que han mejorado significativamente la precisión y velocidad de identificación.
 
-AnyVision ha desarrollado una plataforma de reconocimiento facial basada en inteligencia artificial, utilizada en sectores como seguridad, vigilancia y control de acceso. Inicialmente, el sistema empleaba algoritmos tradicionales de visión por computadora para detectar y comparar rostros en imágenes y videos. Sin embargo, con la evolución del deep learning, han implementado redes neuronales avanzadas que han mejorado significativamente la precisión y velocidad de identificación.
-
-El algoritmo de AnyVision ha sido entrenado con grandes volúmenes de imágenes de rostros capturadas en diferentes condiciones de iluminación, ángulos y calidades de imagen. Esto le permite identificar personas con alta precisión, incluso en entornos con poca luz o cuando los rostros están parcialmente cubiertos. Además, la plataforma utiliza técnicas de aprendizaje automático para mejorar continuamente su capacidad de detección y minimizar falsos positivos.
+El algoritmo ha sido entrenado con grandes volúmenes de imágenes de rostros capturadas en diferentes condiciones de iluminación, ángulos y calidades de imagen. Esto le permite identificar personas con alta precisión, incluso en entornos con poca luz o cuando los rostros están parcialmente cubiertos. Además, la plataforma utiliza técnicas de aprendizaje automático para mejorar continuamente su capacidad de detección y minimizar falsos positivos.
 
 ¿Es un sistema inteligente?
 - Inteligencia: ✅ AnyVision tiene un objetivo claro: reconocer personas y objetos en imágenes o videos con alta precisión. Su éxito se mide en la capacidad de lograr esta tarea en entornos reales y dinámicos.
@@ -69,11 +51,9 @@ El algoritmo de AnyVision ha sido entrenado con grandes volúmenes de imágenes 
 Puede mejorar su rendimiento con más datos.
 - Aprendizaje: ❌ No cumple completamente. No aprende en tiempo real ni ajusta sus decisiones dinámicamente. Su aprendizaje se da en la fase de entrenamiento, pero en producción su modelo es fijo. No ajusta reglas de actuación basadas en su propia experiencia, como lo haría un sistema autónomo más avanzado.
 
-### Aplicacion con IA en Musical
+### Aplicacion con IA en sector Musical
 
-AIVA (Artificial Intelligence Virtual Artist) es una inteligencia artificial que compone música original en distintos estilos, como música clásica, jazz, electrónica o bandas sonoras para películas y videojuegos. Lanzada en 2016, AIVA ha sido reconocida como compositora oficial en la Sociedad de Autores de Luxemburgo, lo que significa que sus creaciones pueden tener derechos de autor, algo raro para una IA.
-
-AIVA (Artificial Intelligence Virtual Artist) es un sistema de inteligencia artificial diseñado para componer música de manera autónoma en diversos estilos, como música clásica, jazz y bandas sonoras. En sus inicios, AIVA utilizaba reglas predefinidas de teoría musical para generar melodías y armonías. Sin embargo, con la implementación de redes neuronales profundas, ha logrado mejorar su capacidad creativa, produciendo composiciones más naturales y expresivas.
+**AIVA** (Artificial Intelligence Virtual Artist): Es una inteligencia artificial que compone música original en distintos estilos, como música clásica, jazz, electrónica o bandas sonoras para películas y videojuegos. Sin embargo, con la implementación de redes neuronales profundas, ha logrado mejorar su capacidad creativa, produciendo composiciones más naturales y expresivas.
 
 El algoritmo de AIVA ha sido entrenado con miles de partituras de compositores clásicos y modernos, permitiéndole identificar patrones musicales y estructuras armónicas. Gracias a esto, la IA puede generar piezas originales que siguen estilos específicos o combinan influencias de distintas épocas. Además, los usuarios pueden personalizar parámetros como el tono, la intensidad y la instrumentación para ajustar la composición a sus necesidades.
 
@@ -81,27 +61,19 @@ AIVA usa redes neuronales y deep learning para analizar miles de partituras musi
 
 #### Análisis de Música
 
-AIVA estudia miles de partituras de grandes compositores (Bach, Mozart, Beethoven, etc.) para entender patrones musicales, armonía y estructura.
-
-Usa procesamiento de lenguaje natural (PLN), pero aplicado a música en lugar de texto.
+AIVA estudia miles de partituras de grandes compositores (Bach, Mozart, Beethoven, etc.) para entender patrones musicales, armonía y estructura. Usa procesamiento de lenguaje natural (PLN), pero aplicado a música en lugar de texto.
 
 #### Generación de Nuevas Composiciones
 
-Basándose en lo aprendido, AIVA genera nuevas piezas musicales desde cero o modifica melodías existentes.
-
-Puede seguir reglas específicas de composición (por ejemplo, generar una sonata o una banda sonora de acción).
+Basándose en lo aprendido, AIVA genera nuevas piezas musicales desde cero o modifica melodías existentes. Puede seguir reglas específicas de composición (por ejemplo, generar una sonata o una banda sonora de acción).
 
 #### Mejora y Refinamiento
 
-Una vez creada la pieza, AIVA la ajusta y optimiza usando evaluación automática y retroalimentación.
-
-Puede sugerir arreglos, cambiar instrumentos o ajustar la tonalidad según las preferencias del usuario.
+Una vez creada la pieza, AIVA la ajusta y optimiza usando evaluación automática y retroalimentación. Puede sugerir arreglos, cambiar instrumentos o ajustar la tonalidad según las preferencias del usuario.
 
 #### Exportación y Producción
 
-AIVA permite descargar las partituras en formato MIDI, lo que permite a músicos humanos editarla y mejorarla.
-
-También genera audio realista con instrumentos virtuales, lo que permite usar sus creaciones en películas, videojuegos y comerciales.
+AIVA permite descargar las partituras en formato MIDI, lo que permite a músicos humanos editarla y mejorarla. También genera audio realista con instrumentos virtuales, lo que permite usar sus creaciones en películas, videojuegos y comerciales.
 
 ¿Es un sistema inteligente?
 - Inteligencia: ✅ Sí, porque logra su objetivo principal, el cual es componer música de manera autónoma y en distintos estilos. Puede adaptar sus composiciones según parámetros definidos, optimizando la calidad del resultado.
