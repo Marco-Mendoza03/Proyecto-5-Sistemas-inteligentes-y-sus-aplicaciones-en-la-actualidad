@@ -85,19 +85,19 @@ AIVA estudia miles de partituras de grandes compositores (Bach, Mozart, Beethove
 
 Usa procesamiento de lenguaje natural (PLN), pero aplicado a música en lugar de texto.
 
-#### Generación de Nuevas Composiciones 🎶
+#### Generación de Nuevas Composiciones
 
 Basándose en lo aprendido, AIVA genera nuevas piezas musicales desde cero o modifica melodías existentes.
 
 Puede seguir reglas específicas de composición (por ejemplo, generar una sonata o una banda sonora de acción).
 
-#### Mejora y Refinamiento 🎻
+#### Mejora y Refinamiento
 
 Una vez creada la pieza, AIVA la ajusta y optimiza usando evaluación automática y retroalimentación.
 
 Puede sugerir arreglos, cambiar instrumentos o ajustar la tonalidad según las preferencias del usuario.
 
-#### Exportación y Producción 🎧
+#### Exportación y Producción
 
 AIVA permite descargar las partituras en formato MIDI, lo que permite a músicos humanos editarla y mejorarla.
 
