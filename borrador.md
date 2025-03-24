@@ -27,9 +27,7 @@ Un sistema inteligente completo incluye "sentidos" que le permiten recibir infor
 ### tres aplicaciones actuales de la ia de campos distintos. (marcados en negritas los que se van a usar)
 
 - ***salud***
-- transporte
 - ***seguridad y vigilancia***
-- educación y formación
 - ***industrial y energia***
 
 ### Aplicacion de la IA en el campo de la Salud
@@ -57,6 +55,10 @@ Anyvision: AnyVision es una empresa de reconocimiento facial y visión por compu
 
 AnyVision usa redes neuronales profundas para procesar imágenes y videos en tiempo real. Su sistema sigue estos pasos: Captura de imagenes, preprocesamiento de imagenes, deteccion y reconocimiento facial, comparacion con bases de datos, analisis de comportamiento, generacion de alertas
 
+AnyVision ha desarrollado una plataforma de reconocimiento facial basada en inteligencia artificial, utilizada en sectores como seguridad, vigilancia y control de acceso. Inicialmente, el sistema empleaba algoritmos tradicionales de visión por computadora para detectar y comparar rostros en imágenes y videos. Sin embargo, con la evolución del deep learning, han implementado redes neuronales avanzadas que han mejorado significativamente la precisión y velocidad de identificación.
+
+El algoritmo de AnyVision ha sido entrenado con grandes volúmenes de imágenes de rostros capturadas en diferentes condiciones de iluminación, ángulos y calidades de imagen. Esto le permite identificar personas con alta precisión, incluso en entornos con poca luz o cuando los rostros están parcialmente cubiertos. Además, la plataforma utiliza técnicas de aprendizaje automático para mejorar continuamente su capacidad de detección y minimizar falsos positivos.
+
 ¿Es un sistema inteligente?
 - Inteligencia: ✅ AnyVision tiene un objetivo claro: reconocer personas y objetos en imágenes o videos con alta precisión. Su éxito se mide en la capacidad de lograr esta tarea en entornos reales y dinámicos.
 - Sistematización: ✅ AnyVision es un sistema cerrado y definido, compuesto por hardware (cámaras, servidores) y software (redes neuronales, bases de datos). Sus componentes están altamente correlacionados entre sí y funcionan como un sistema único.
@@ -68,15 +70,17 @@ AnyVision usa redes neuronales profundas para procesar imágenes y videos en tie
 Puede mejorar su rendimiento con más datos.
 - Aprendizaje: ❌ No cumple completamente. No aprende en tiempo real ni ajusta sus decisiones dinámicamente. Su aprendizaje se da en la fase de entrenamiento, pero en producción su modelo es fijo. No ajusta reglas de actuación basadas en su propia experiencia, como lo haría un sistema autónomo más avanzado.
 
-### Aplicacion de la IA en sector Industrial y energia
+### Aplicacion de la IA en Musical
 
-AIVA (Artificial Intelligence Virtual Artist) es una inteligencia artificial que compone música original en distintos estilos, como música clásica, jazz, electrónica o bandas sonoras para películas y videojuegos.
+AIVA (Artificial Intelligence Virtual Artist) es una inteligencia artificial que compone música original en distintos estilos, como música clásica, jazz, electrónica o bandas sonoras para películas y videojuegos. Lanzada en 2016, AIVA ha sido reconocida como compositora oficial en la Sociedad de Autores de Luxemburgo, lo que significa que sus creaciones pueden tener derechos de autor, algo raro para una IA.
 
-Lanzada en 2016, AIVA ha sido reconocida como compositora oficial en la Sociedad de Autores de Luxemburgo, lo que significa que sus creaciones pueden tener derechos de autor, algo raro para una IA.
+AIVA (Artificial Intelligence Virtual Artist) es un sistema de inteligencia artificial diseñado para componer música de manera autónoma en diversos estilos, como música clásica, jazz y bandas sonoras. En sus inicios, AIVA utilizaba reglas predefinidas de teoría musical para generar melodías y armonías. Sin embargo, con la implementación de redes neuronales profundas, ha logrado mejorar su capacidad creativa, produciendo composiciones más naturales y expresivas.
+
+El algoritmo de AIVA ha sido entrenado con miles de partituras de compositores clásicos y modernos, permitiéndole identificar patrones musicales y estructuras armónicas. Gracias a esto, la IA puede generar piezas originales que siguen estilos específicos o combinan influencias de distintas épocas. Además, los usuarios pueden personalizar parámetros como el tono, la intensidad y la instrumentación para ajustar la composición a sus necesidades.
 
 AIVA usa redes neuronales y deep learning para analizar miles de partituras musicales y generar nuevas composiciones. Su proceso es más o menos así:
 
-#### Análisis de Música 🎼
+#### Análisis de Música
 
 AIVA estudia miles de partituras de grandes compositores (Bach, Mozart, Beethoven, etc.) para entender patrones musicales, armonía y estructura.
 
